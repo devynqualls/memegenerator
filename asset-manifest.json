@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/devynqualls.github.io/memegenerator/static/css/main.581f6f4c.chunk.css",
-    "main.js": "/devynqualls.github.io/memegenerator/static/js/main.0019aaa0.chunk.js",
-    "main.js.map": "/devynqualls.github.io/memegenerator/static/js/main.0019aaa0.chunk.js.map",
-    "runtime-main.js": "/devynqualls.github.io/memegenerator/static/js/runtime-main.0669d37f.js",
-    "runtime-main.js.map": "/devynqualls.github.io/memegenerator/static/js/runtime-main.0669d37f.js.map",
-    "static/js/2.8df289fe.chunk.js": "/devynqualls.github.io/memegenerator/static/js/2.8df289fe.chunk.js",
-    "static/js/2.8df289fe.chunk.js.map": "/devynqualls.github.io/memegenerator/static/js/2.8df289fe.chunk.js.map",
-    "index.html": "/devynqualls.github.io/memegenerator/index.html",
-    "static/css/main.581f6f4c.chunk.css.map": "/devynqualls.github.io/memegenerator/static/css/main.581f6f4c.chunk.css.map",
-    "static/js/2.8df289fe.chunk.js.LICENSE.txt": "/devynqualls.github.io/memegenerator/static/js/2.8df289fe.chunk.js.LICENSE.txt"
+    "main.css": "/memegenerator/static/css/main.581f6f4c.chunk.css",
+    "main.js": "/memegenerator/static/js/main.0019aaa0.chunk.js",
+    "main.js.map": "/memegenerator/static/js/main.0019aaa0.chunk.js.map",
+    "runtime-main.js": "/memegenerator/static/js/runtime-main.8f1170f6.js",
+    "runtime-main.js.map": "/memegenerator/static/js/runtime-main.8f1170f6.js.map",
+    "static/js/2.8df289fe.chunk.js": "/memegenerator/static/js/2.8df289fe.chunk.js",
+    "static/js/2.8df289fe.chunk.js.map": "/memegenerator/static/js/2.8df289fe.chunk.js.map",
+    "index.html": "/memegenerator/index.html",
+    "static/css/main.581f6f4c.chunk.css.map": "/memegenerator/static/css/main.581f6f4c.chunk.css.map",
+    "static/js/2.8df289fe.chunk.js.LICENSE.txt": "/memegenerator/static/js/2.8df289fe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0669d37f.js",
+    "static/js/runtime-main.8f1170f6.js",
     "static/js/2.8df289fe.chunk.js",
     "static/css/main.581f6f4c.chunk.css",
     "static/js/main.0019aaa0.chunk.js"
